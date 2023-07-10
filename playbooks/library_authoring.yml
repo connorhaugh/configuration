@@ -1,4 +1,4 @@
-name: Deploy library authoring MFE Frontend
+-name: Deploy library authoring MFE Frontend
   hosts: all
   become: True
   gather_facts: True
